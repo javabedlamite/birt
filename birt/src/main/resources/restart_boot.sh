@@ -3,7 +3,7 @@ export PATH=$JAVA_HOME/bin:$PATH
 export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
 
 Port=8087
-JarName=bootdo-1.5.0.jar-8087.jar
+JarName=birt-1.5.0.jar-8087.jar
 LogsPatch=./logs_$Port
 
 
